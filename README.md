@@ -2,8 +2,7 @@
 
 I'm **Ankit**, a **FinTech Data Analyst** based in **India**.
 
-I work with data from raw inputs to final insights — exploring trends, answering business questions, and supporting data-driven decisions. If something looks interesting, I’ll dig into it, validate it, and turn it into something useful and clear.
-
+I analyze and interpret data to support business decisions, with a focus on accuracy, clarity, and real-world impact.
 ---
 
 ## What I Do
@@ -17,22 +16,9 @@ I work with data from raw inputs to final insights — exploring trends, answeri
 
 ## Tech Stack
 
-**Data & Analysis**
-- SQL  
-- Python  
-- Pandas  
-- NumPy  
-
-**Visualization & BI**
-- Power BI  
-- Tableau  
-- Excel  
-
-**Tools**
-- Google Antigravity
-- Visual Studio Code
-- Git / Github  
-- PostgreSQL  
+- **Data & Analysis:** SQL, Python (Pandas, NumPy)  
+- **BI & Visualization:** Power BI, Tableau, Looker, Excel  
+- **Tools & Platforms:** Git/GitHub, PostgreSQL, VS Code, MS Office, Google Workspace  
 
 
 ## Projects
