@@ -1,16 +1,60 @@
-## Hi there 👋
+## Hey there 👋
 
-<!--
-**AnkitDatascience07/AnkitDatascience07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Ankit**, a **FinTech Data Analyst** based in **India**.
 
-Here are some ideas to get you started:
+I work with data from raw inputs to final insights — exploring trends, answering business questions, and supporting data-driven decisions. If something looks interesting, I’ll dig into it, validate it, and turn it into something useful and clear.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## What I Do
+
+- Analyze financial and business data to uncover trends and insights  
+- Build clear dashboards and reports for decision-making  
+- Work with stakeholders to translate business questions into data solutions  
+- Ensure data accuracy, consistency, and reproducibility across analyses  
+
+---
+
+## Tech Stack
+
+**Data & Analysis**
+- SQL  
+- Python  
+- Pandas  
+- NumPy  
+
+**Visualization & BI**
+- Power BI  
+- Tableau  
+- Excel  
+
+**Tools**
+- Google Antigravity
+- Visual Studio Code
+- Git / Github  
+- PostgreSQL  
+
+
+## Projects
+
+I’ve worked on a wide range of projects across **data analysis**, **machine learning**, and **financial datasets**.  
+My work includes exploratory analysis, model development, reporting, and turning complex data into clear, decision-ready insights.
+
+## Learning & Sharing
+
+I share what I learn through **blogs and posts**, mainly around data analysis, machine learning concepts, and practical problem-solving.
+
+---
+
+
+## Fun Facts
+
+- 📷 I enjoy photography  
+- 📚 Always learning new things  
+- 💻 Tech-savvy by nature  
+- 🏍️ Love adventure and bike riding  
+- ⚽ Into sports and regular gym sessions  
+
+---
+
+Thanks for stopping by 👋
