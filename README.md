@@ -1,6 +1,6 @@
-## Hey there 👋
+## Hey there I'm **Ankit** 👋
 
-I'm **Ankit**, a **FinTech Data Analyst** based in **India**.
+A **FinTech Data Analyst** based in **India**.
 
 I analyze and interpret data to support business decisions, with a focus on accuracy, clarity, and real-world impact.
 ---
